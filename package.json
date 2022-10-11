@@ -1,0 +1,28 @@
+{
+  "name": "haibin-007",
+  "version": "1.0.0",
+  "description": "<!--\r **haibin-007/haibin-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haibin-007/haibin-007.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haibin-007/haibin-007/issues"
+  },
+  "homepage": "https://github.com/haibin-007/haibin-007#readme",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "dayjs": "^1.11.5",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "html-prettify": "^1.0.7"
+  }
+}

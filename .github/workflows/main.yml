@@ -1,0 +1,53 @@
+# 名称
+name: 生成 README
+
+# 触发条件
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule:
+    # UTC + 8 = 中国时区
+    # 22:00 + 8 = 6:00（明天） 每6点触发一次
+    # 分0-59  时0-23  日1-31  月1-12  周0-6 
+    # 检测 https://crontab.guru/
+    - cron: '* * * * *'
+
+# 执行n个任务
+jobs:
+  # 任务名称
+  build:
+    # 指定虚拟机环境
+    runs-on: ubuntu-latest
+    # 执行n个步骤
+    steps:
+      # 步骤名称
+      - name: 设置基于运行程序的操作系统设置运行程序所在地区的时区
+        # 使用第三方action
+        uses: szenius/set-timezone@v1.0
+        # 配置参数
+        with:
+          timezoneLinux: 'Asia/Shenzhen'
+          timezoneMacos: "Asia/Shenzhen"
+          timezoneWindows: "Asia/Shenzhen"
+      - name: 获取源码
+        uses: actions/checkout@v3
+      - name: 环境配置
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+          cache: 'npm'
+      - name: 缓存
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: 安装依赖
+        run: npm install
+      - name: 生成 README.md
+        run: npm run build
+      - name: 推送新 README.md
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
