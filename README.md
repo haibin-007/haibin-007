@@ -1,9 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! I'm haibin. Nice to see you.</h1>
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>Hey! I'm haibin. Nice to see you.</h1>
 <img src="https://visitor-badge.glitch.me/badge?page_id=haibin-007" alt="访客统计"/><img src="https://github.com/haibin-007/haibin-007/actions/workflows/main.yml/badge.svg" alt="build badge" />
-
-<p>哈喽<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是haibin，是来自深圳（中国）的前端工程师、技术作家、社会学读者、理财玩家、游戏玩家。每天分享一图：</p>
-<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
+<p>欢迎来到我的github！</p>
+<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是haibin，是来自深圳（中国）的前端工程师、技术作家、社会学读者、理财玩家、游戏玩家。</p>
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
+<blockquote>最后更新于 2022年10月11日 16时08分（每天早上 6:00 自动更新）</blockquote>
 <h3>代码技术</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"  />
