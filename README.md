@@ -1,6 +1,6 @@
 <h2>☀️ 今天</h2>
 <blockquote>最后更新于 2022年10月11日 16时07分（每天早上 6:00 自动更新）</blockquote>
-<img src="https://visitor-badge.glitch.me/badge?page_id=haibin" alt="visitor badge"/><img src="https://github.com/haibin/haibin/actions/workflows/main.yml/badge.svg" alt="build badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=haibin-007" alt="visitor badge"/><img src="https://github.com/haibin/haibin/actions/workflows/main.yml/badge.svg" alt="build badge"/>
 <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
 <h2>🙌 社交</h2>
 <table>
