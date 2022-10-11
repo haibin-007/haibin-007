@@ -1,4 +1,4 @@
-    <h2>☀️ 今天</h2>
+<h2>☀️ 今天</h2>
     <blockquote>最后更新于 2022年10月11日 07时27分（每天早上 6:00 自动更新）</blockquote>
     <img src="https://visitor-badge.glitch.me/badge?page_id=haibin" alt="visitor badge"/><img src="https://github.com/haibin/haibin/actions/workflows/main.yml/badge.svg" alt="build badge" />
     <!-- <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是haibin，坐标深圳。每天分享一图：</p> -->
