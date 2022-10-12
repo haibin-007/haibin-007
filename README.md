@@ -7,10 +7,8 @@
       </div>
       <p>哈喽<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是haibin，是来自深圳（中国）的前端工程师、技术作家、社会学读者、理财玩家、游戏玩家。</p>
         <img src="https://github.com/haibin-007/haibin-007/blob/master/src/images/header.png" alt="" srcset="">
-        <div style="position: relative;">
-          <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
-          <p style="position: absolute;left: 10px;bottom: 10px;">最近更新于 2022年10月12日 08时10分（每天早上 6:00 自动更新）</p>
-        </div>
+        <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
+        <blockquote>最近更新于 2022年10月12日 08时17分（每天早上 6:00 自动更新）</blockquote>
         <p>
           <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"  />
           <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"  />
@@ -145,3 +143,29 @@
     </td>
   </tr>
 </table>
+<div>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" />
+</div>
