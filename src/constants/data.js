@@ -15,12 +15,12 @@ const data = {
     //   url: 'https://www.zhihu.com/people/haixiangyan',
     // },
     {
-      icon: `${imagePrefix}/icons/juejin.png`,
+      icon: `${imagePrefix}/icons/juejin_120px.png`,
       name: '掘金',
       url: 'https://juejin.cn/user/4459274890649335',
     },
     {
-      icon: `${imagePrefix}/icons/jianshu.png`,
+      icon: `${imagePrefix}/icons/jianshu_120px.png`,
       name: '简书',
       url: 'https://www.jianshu.com/u/e4f1dd2be43a',
     },
