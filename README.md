@@ -1,8 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>Hey! I'm haibin. Nice to see you!</h1>
-<img src="https://visitor-badge.glitch.me/badge?page_id=haibin-007" alt="访客统计"/><img src="https://github.com/haibin-007/haibin-007/actions/workflows/main.yml/badge.svg" alt="build badge" />
+<div style="display: flex;">
+  <img src="https://github.com/haibin-007/haibin-007/actions/workflows/main.yml/badge.svg" alt="build badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=haibin-007" alt="visitor badge" />
+</div>
 <p>哈喽<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是haibin，是来自深圳（中国）的前端工程师、技术作家、社会学读者、理财玩家、游戏玩家。</p>
 <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
-<blockquote>最后更新于 2022年10月12日 00时43分（每天早上 6:00 自动更新）</blockquote>
+<blockquote>最后更新于 2022年10月12日 02时49分（每天早上 6:00 自动更新）</blockquote>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"  />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"  />
@@ -30,23 +33,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
 </p>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"  />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"  />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"  />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"  />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"  />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"  />
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;"  />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;"  />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"  />
-<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;"  />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;"  />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"  />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"  />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"  />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;"  />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg"  />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg"  />
 <table>
   <tr>
     <th><a href="https://juejin.cn/user/4459274890649335" target="_blank">掘金</a></th>
