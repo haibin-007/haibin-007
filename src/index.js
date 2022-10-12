@@ -29,7 +29,7 @@ const main = async () => {
 
   const prettyHtml = prettify(html);
 
-  fs.writeFileSync(outputPath, prettyHtml);
+  fs.writeFileSync(outputPath, prettyHtml.trim());
 }
 
 main().then();
