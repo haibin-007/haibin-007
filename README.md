@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>Hey! I'm haibin. Nice to see you!</h1>
 <div style="display: flex;">
+  ![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
   <img src="https://github.com/haibin-007/haibin-007/actions/workflows/main.yml/badge.svg" alt="build badge" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=haibin-007" alt="visitor badge" />
 </div>
