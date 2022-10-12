@@ -144,14 +144,14 @@
 
 
 <table>
-    <tr style="width: 150px;">
+    <tr>
         <% socials.forEach(function(social){ %>
-        <th><a href="<%= social.url %>" target="_blank"><%= social.name %></a></th>
+        <th style="width: 150px;"><a href="<%= social.url %>" target="_blank"><%= social.name %></a></th>
         <% }); %>
     </tr>
-    <tr style="width: 150px;">
+    <tr>
         <% socials.forEach(function(social){ %>
-        <td>
+        <td style="width: 150px;">
             <a href="<%= social.url %>" target="_blank">
                 <img src="<%= social.icon %>" alt="<%= social.name %>">
             </a>
