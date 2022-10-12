@@ -8,7 +8,7 @@
       <p>哈喽<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是haibin，是来自深圳（中国）的前端工程师、技术作家、社会学读者、理财玩家、游戏玩家。</p>
         <img src="https://github.com/haibin-007/haibin-007/blob/master/src/images/header.png" alt="" srcset="">
         <img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
-        <blockquote>最近更新于 2022年10月12日 08时33分（每天早上 6:00 自动更新）</blockquote>
+        <blockquote>最近更新于 2022年10月12日 08时50分（每天早上 6:00 自动更新）</blockquote>
         <p>
           <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"  />
           <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"  />
@@ -133,12 +133,12 @@
   <tr>
     <td style="width: 150px;">
       <a href="https://juejin.cn/user/4459274890649335" target="_blank">
-        <img src="./src/images/icons/juejin.png" alt="掘金">
+        <img src="./src/images/icons/juejin_120px.png" alt="掘金">
       </a>
     </td>
     <td style="width: 150px;">
       <a href="https://www.jianshu.com/u/e4f1dd2be43a" target="_blank">
-        <img src="./src/images/icons/jianshu.png" alt="简书">
+        <img src="./src/images/icons/jianshu_120px.png" alt="简书">
       </a>
     </td>
   </tr>
@@ -166,6 +166,5 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" />
 </div>
