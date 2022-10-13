@@ -6,9 +6,6 @@
   <img src="https://github.com/haibin-007/haibin-007/actions/workflows/main.yml/badge.svg" alt="build badge" />
 </div>
 <p>哈喽<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是haibin，是来自深圳（中国）的前端工程师、技术作家、社会学读者、理财玩家、游戏玩家。</p>
-<img src="https://github.com/haibin-007/haibin-007/blob/master/src/images/header.png" alt="" srcset="">
-<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
-<blockquote>最近更新于 2022年10月12日 08时52分（每天早上 6:00 自动更新）</blockquote>
 <table>
   <tr>
     <th style="width: 150px;"><a href="https://juejin.cn/user/4459274890649335" target="_blank">掘金</a></th>
@@ -27,6 +24,7 @@
     </td>
   </tr>
 </table>
+<img src="https://github.com/haibin-007/haibin-007/blob/master/src/images/header.png" alt="" srcset="">
 <div>
   <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30" />
@@ -52,3 +50,5 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" />
 </div>
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.AlaskaMoose_ZH-CN9148253690_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
+<blockquote>最近更新于 2022年10月12日 22时07分（每天早上 6:00 自动更新）</blockquote>
