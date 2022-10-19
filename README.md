@@ -50,5 +50,5 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" />
 </div>
-<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
-<blockquote>最近更新于 2022年10月18日 07时01分（每天早上 6:00 自动更新）</blockquote>
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
+<blockquote>最近更新于 2022年10月19日 07时04分（每天早上 6:00 自动更新）</blockquote>
