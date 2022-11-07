@@ -10,6 +10,8 @@
 
 <p>哈喽<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是haibin，是来自深圳（中国）的前端工程师、技术作家、社会学读者、理财玩家、游戏玩家。</p>
 
+<h3>🙌 社交</h3>
+<p>经常在各大平台出没 👻，不时会更新好玩有趣的文章，关注我，一起探索编程的奥妙，体验编码的乐趣 💪！</p>
 <table>
   <tr>
       <% socials.forEach(function(social){ %>
@@ -26,6 +28,39 @@
       <% }); %>
   </tr>
 </table>
+
+<h3>📚 小书</h3>
+<p>当一篇文章讲的东西非常多，或者内容非常长的时候，我就会把它变成一本在线小书。所在小书皆可免费食用 🍝、无限转载 📣，唯一要求是转载时加上作者出处即可。</p>
+<table>
+  <thead align="center">
+  <tr>
+      <th>封面</th>
+      <th>书名</th>
+      <th>简述</th>
+      <th>成就</th>
+  </tr>
+  </thead>
+
+  <tbody align="left">
+      <% books.forEach(function(book){ %>
+      <tr>
+          <th align="center">
+              <img width="120" src="<%= book.cover %>" alt="<%= book.name %>">
+          </th>
+          <th>
+              <a href="<%= book.url %>" target="_blank"><%= book.name %></a>
+          </th>
+          <th><%= book.logo %> <%= book.desc %></th>
+          <th>
+              <% book.badges.forEach(function(badge){ %>
+                  <img src="<%= badge %>" alt="badge">
+              <% }); %>
+          </th>
+      </tr>
+      <% }); %>
+  </tbody>
+</table>
+
 
 <img src="https://github.com/haibin-007/haibin-007/blob/master/src/images/header.png" alt="" srcset="">
 
@@ -56,6 +91,6 @@
 </div>
 
 <img width="100%" align="center" src="<%= background %>" alt="background">
-<blockquote>最近更新于 <%= updatedAt %>（每天早上 6:00 自动更新）</blockquote>
+<blockquote>最近更新于 <%= updatedAt %>（每天早上 6:30 自动更新）</blockquote>
 
 
