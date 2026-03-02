@@ -79,5 +79,5 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" />
 </div>
-<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
-<blockquote>最近更新于 2026年03月01日 06时54分（每天早上 6:30 自动更新）</blockquote>
+<img width="100%" align="center" src="https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp" alt="background">
+<blockquote>最近更新于 2026年03月02日 07时06分（每天早上 6:30 自动更新）</blockquote>
